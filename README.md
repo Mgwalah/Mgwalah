@@ -36,7 +36,3 @@ I am a passionate **penetration tester & ethical hacker** with hands-on experien
 🔹 Created a **custom exploit** for a vulnerable Windows application  
 🔹 Used **Immunity Debugger & Python** to execute a reverse shell  
 
-
----
-
-📬 **Got a security project in mind? Let's collaborate!**  
